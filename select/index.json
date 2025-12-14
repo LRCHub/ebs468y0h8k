@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "YES! to Tomorrow",
+  "base_artist": "優木せつ菜 (CV.林 鼓子)",
+  "createdAt": "2025-12-14T05:39:07.753499Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YES! to Tomorrow",
+      "artist": "優木せつ菜 (CV.林 鼓子)",
+      "has_synced": false,
+      "path": "select/pl_01_YES!_to_Tomorrow_優木せつ菜_(CV.林_鼓子).txt"
+    }
+  ]
+}
